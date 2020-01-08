@@ -29,9 +29,9 @@ color:black;
     }
 
     .bg{
-      width: 400px;
-      height: 400px;
-      padding: 50px;
+      width: 250px;
+      height: 300px;
+      padding: 0px;
       justify-content: center;
       margin: 0 auto;
     }
@@ -39,7 +39,8 @@ color:black;
     .backimg{
       width: 100%;
       height: auto;
-      border-radius: 50%;
+      border-radius: 30%;
+      
     }
 
 }

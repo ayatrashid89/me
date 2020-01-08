@@ -35,8 +35,8 @@ return(
             <img className= "myimg" src={ require('./voy.PNG') } />
     
             <div className="desc">
-                <h3>www.voyagereng.com</h3>
-                <p>Designed company website using WordPress content management system. Communicated directly with the founder of the company to adjust website content and design</p>
+                <h3>Voyager Engineering website</h3>
+                <p>Designed a website for Voyager Engineering LLC. I used WordPress content management system to built the website in align by company guidelines. www.voyagereng.com</p>
             </div>
             </div>
         </div>
@@ -55,8 +55,8 @@ return(
             <div className="services color-5">
             <img className="myimg" src={require("./wp2.PNG")} />
             <div className="desc">
-                <h3>WordPress Project</h3>
-                <p> I designed a website for my WordPress class that allow me to display items and purshis them. http://ayatr.sgedu.site/ wordpress/</p>
+                <h3>eCommerce Website</h3>
+                <p> I designed an eCommerce website using WordPress as school project. Website included items gallery, shopping cart, and checkout page. http://ayatr.sgedu.site/wordpress/</p>
             </div>
             </div>
         </div>

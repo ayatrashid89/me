@@ -30,7 +30,7 @@ class Header extends Component {
                 </div>
                 <div className="intro">
                 <h1>Hi, I'm Ayat Rashid.</h1>
-                <p>I have experience building websites using JavaScript,React,HTML,CSS, also I have two years experience, CSS, HTML, JavaScript, PHP, SQL, WordPress, Photoshop, Premiere pro.</p>
+                <p>I'm a Web Developer based in Greater Seattle Area. I'm experienced in  building websites using HTML, CSS, JavaScript, and ReactJS. Also, I've built websites for several clients using PHP, SQL, WordPress, PhotoShop, Premiere Pro.</p>
                 </div>             
             </div>
         )
