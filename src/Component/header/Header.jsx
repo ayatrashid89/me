@@ -29,7 +29,7 @@ class Header extends Component {
                 <img className="backimg" src={ this.state.isMobile?require('./ayat12.jpeg'):require('./bg.jpeg') } />
                 </div>
                 <div className="intro">
-                <h1>Hi, I'm Ayat.</h1>
+                <h1>Hi, I'm Ayat Rashid.</h1>
                 <p>I have experience building websites using JavaScript,React,HTML,CSS, also I have two years experience, CSS, HTML, JavaScript, PHP, SQL, WordPress, Photoshop, Premiere pro.</p>
                 </div>             
             </div>
