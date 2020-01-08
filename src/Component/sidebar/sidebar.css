@@ -1,0 +1,33 @@
+.Sidebar{
+background:white;
+}
+
+
+.Sidebar {
+    display: flex;
+    position: fixed;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 17em;
+    border-right: 1px solid #4b4b4b88;
+    box-shadow: 2px 7px 15px black;
+    padding: 1.5em;
+}
+    
+.Sidebar>a {
+    margin-top: 5em;
+}
+.myimg {
+    height: 10em;
+    width: 10em;
+    border-radius: 50%;
+    border: 1 solid black;
+  }
+
+  @media only screen and (max-width : 710px) {
+    .Sidebar{
+      display: none;
+      }
+
+}

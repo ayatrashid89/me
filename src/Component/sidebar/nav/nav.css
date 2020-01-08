@@ -1,0 +1,12 @@
+.Nav ul li{
+    list-style-type: none;
+    text-align: justify;
+    text-shadow: 10px red;
+    text-decoration-color: tomato;
+    margin-bottom: 0.5em;
+    size: 50px;
+}
+a {
+    color:black;
+    font-size: 20px;
+}

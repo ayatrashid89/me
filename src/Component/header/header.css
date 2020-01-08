@@ -1,0 +1,45 @@
+.intro {
+  display: flex;
+   flex-direction: column;
+   padding: 15px;
+}
+.intro > p{
+
+font-size:x-large;
+color:black;
+}
+
+.bg{
+  width: 100%;
+  padding: 20px;
+  height:400px;
+  margin: auto;
+  display: flex;
+}
+
+.backimg{
+  width: 100%;
+  height: auto;
+}
+
+@media only screen and (max-width : 700px) {
+  .header{
+    margin-left: 0em;
+
+    }
+
+    .bg{
+      width: 400px;
+      height: 400px;
+      padding: 50px;
+      justify-content: center;
+      margin: 0 auto;
+    }
+
+    .backimg{
+      width: 100%;
+      height: auto;
+      border-radius: 50%;
+    }
+
+}
