@@ -4,7 +4,7 @@ import Header from './Component/header/Header';
 import Experience from './Component/experience/experience';
 import Education from './Component/education/education';
 import Project from './Component/project/project';
-import SocialMedia from './Component/sidebar/socialmedia/SocialMedia'
+import SocialMedia from './Component/sidebar/socialmedia/SocialMedia';
 import './App.css';
 
 class App extends Component {
