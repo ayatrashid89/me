@@ -39,10 +39,10 @@ class Header extends Component {
           <h1>Hi, I'm Ayat Rashid.</h1>
           <p>
             I'm a Web Developer based in Greater Seattle Area. I'm experienced
-            in building websites using HTML, CSS, JavaScript, and ReactJS. Also,
-            I’m passionate about software testing, I love the idea behind
-            critical thinking to write tests' edge cases that ensures delivering
-            high quality software.
+            in front-end development using HTML, CSS, JavaScript, and ReactJS.
+            Also, I’m passionate about software testing, I love the idea behind
+            critical thinking to write tests' edge cases which ensures
+            delivering high quality software.
           </p>
         </div>
       </div>
