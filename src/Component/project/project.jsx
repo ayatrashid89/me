@@ -49,7 +49,7 @@ export default class Project extends Component {
                     <p>
                       Designed a website for Voyager Engineering LLC. I used
                       WordPress content management system to built the website
-                      in align by company guidelines. www.voyagereng.com
+                      in align by company guidelines.<a href=" www.voyagereng.com">www.voyagereng.com</a>
                     </p>
                   </div>
                 </div>
@@ -70,7 +70,7 @@ export default class Project extends Component {
                     <p>
                       Developed a website using PHP and MYSQL for Computer
                       Science Club in Highline College.
-                      http://chelan.highline.edu/ ~ayatrashid/finalPhp/
+                     <a href="http://chelan.highline.edu/~ayatrashid/finalPhp/index.php">CS-Club Project</a>
                     </p>
                   </div>
                 </div>
@@ -92,7 +92,7 @@ export default class Project extends Component {
                       A member of team who Developed a WordPress plugin by using
                       HTML/CSS, PHP, WordPress library. Plugin creates a page
                       with one click.
-                      wordpress.org/plugins/multiple-page-generator/
+                      <a href="wordpress.org/plugins/multiple-page-generator/">WordPress Plugin </a>
                     </p>
                   </div>
                 </div>
